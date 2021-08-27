@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="749fe02f-df48-4ece-b863-6e040227591f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pojos/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Alquiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pojos/Alquiler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AltaTecnologia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pojos/AltaTecnologia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CPUs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pojos/CPUs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Clientes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pojos/Clientes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DiscosDuros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pojos/DiscosDuros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DiscosSolidos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pojos/DiscosSolidos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fabricante.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Impresoras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pojos/Impresoras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Monitores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pojos/Monitores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Producto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Proveedores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pojos/Proveedores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Soporte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pojos/Soporte.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wzpDGpdkcdfZWZtXhICyniQ27i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Infordata" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="749fe02f-df48-4ece-b863-6e040227591f" name="Default Changelist" comment="" />
+      <created>1629471149702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629471149702</updated>
+      <workItem from="1629471153600" duration="9689000" />
+      <workItem from="1629893222008" duration="727000" />
+      <workItem from="1630075793984" duration="1591000" />
+      <workItem from="1630078649690" duration="4799000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="130" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1630082139703">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="130" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1630082139703" />
+    <state x="562" y="57" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1630082604260">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="562" y="57" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1366.728@0.0.1366.728" timestamp="1630082604260" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1630078449431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1630078449431" />
+    <state width="654" height="174" key="GridCell.Tab.0.bottom" timestamp="1630083595340">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="654" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1630083595340" />
+    <state width="654" height="174" key="GridCell.Tab.0.center" timestamp="1630083595340">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="654" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1630083595340" />
+    <state width="654" height="174" key="GridCell.Tab.0.left" timestamp="1630083595340">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="654" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1630083595340" />
+    <state width="654" height="174" key="GridCell.Tab.0.right" timestamp="1630083595340">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="654" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1630083595340" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1629893326567">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1629893326567" />
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1629477726572">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1629477726572" />
+  </component>
+</project>
