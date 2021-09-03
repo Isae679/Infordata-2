@@ -21,6 +21,7 @@ public class Main {
 
 
        //POLIMORFISMO
+        /*
         Producto  producto = new Producto("G120","Genius G120+");
         Producto lj750 = new Impresoras("lj750","Canon Laserjet 750", 30);
         //System.out.println(lj750);
@@ -46,6 +47,14 @@ public class Main {
             System.out.println(productos[i]);
             
         }
+         */
+
+        Monitores lg1080 = new Monitores("lg1080", "Monitor LG1080+", 10,"HD");
+        lg1080.reset();
+        DiscosDuros s1000 = new DiscosDuros("s1000","Samsung s1000",20,"1000GB");
+        s1000.reset();
+
+
     }
 
 }

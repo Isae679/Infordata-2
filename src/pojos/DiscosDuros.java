@@ -1,8 +1,9 @@
 package pojos;
 
+import interfaces.IReseteable;
 import pojos.Alquiler;
 
-public class DiscosDuros extends Alquiler {
+public class DiscosDuros extends Alquiler implements IReseteable {
     private String capacidad;
 
 
@@ -20,5 +21,10 @@ public class DiscosDuros extends Alquiler {
 
     public void setCapacidad(String capacidad) {
         this.capacidad = capacidad;
+    }
+
+    @Override
+    public void reset() {
+        System.out.println("Formateando Disco Duro...");
     }
 }

@@ -1,8 +1,9 @@
 package pojos;
 
+import interfaces.IReseteable;
 import pojos.Alquiler;
 
-public class Monitores extends Alquiler {
+public class Monitores extends Alquiler implements IReseteable {
     private String definicionMaxima;
 
 
@@ -30,5 +31,11 @@ public class Monitores extends Alquiler {
 
     public void setDefinicionMaxima(String definicionMaxima) {
         this.definicionMaxima = definicionMaxima;
+    }
+
+    @Override
+    public void reset() {
+        System.out.println("Rseteando monitor...");
+
     }
 }

@@ -1,10 +1,11 @@
 package pojos;
 
+import interfaces.IReseteable;
 import pojos.AltaTecnologia;
 
 import java.util.Date;
 
-public class CPUs extends AltaTecnologia {
+public class CPUs extends AltaTecnologia implements IReseteable {
     private String memoriaPrinc;
 
 
@@ -21,5 +22,10 @@ public class CPUs extends AltaTecnologia {
 
     public void setMemoriaPrinc(String memoriaPrinc) {
         this.memoriaPrinc = memoriaPrinc;
+    }
+
+    @Override
+    public void reset() {
+        System.out.println("Reseteando al estado de Fabrica...");
     }
 }
