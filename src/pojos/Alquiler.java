@@ -1,6 +1,6 @@
 package pojos;
 
-public class Alquiler extends Producto {
+public abstract class Alquiler extends Producto {
     protected int precio;
 
     //metodo constructor

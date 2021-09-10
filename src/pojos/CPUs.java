@@ -28,4 +28,9 @@ public class CPUs extends AltaTecnologia implements IReseteable {
     public void reset() {
         System.out.println("Reseteando al estado de Fabrica...");
     }
+
+    @Override
+    public void estado() {
+        System.out.println("Años de uso: " + 12);
+    }
 }

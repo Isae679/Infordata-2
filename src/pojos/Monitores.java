@@ -25,6 +25,11 @@ public class Monitores extends Alquiler implements IReseteable {
                 '}';
     }
 
+    @Override
+    public void estado() {
+        System.out.println("Brillo: " + 75 +"%");
+    }
+
     public String getDefinicionMaxima() {
         return definicionMaxima;
     }

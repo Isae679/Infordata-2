@@ -1,6 +1,6 @@
 package pojos;
 
-public class Producto {
+public abstract class Producto {
 
     protected String Codigo;
     protected String Modelo;
@@ -10,7 +10,7 @@ public class Producto {
 
     //metodo cosntructor
 
-    public Producto(String codigo, String modelo) {
+    public  Producto(String codigo, String modelo) {
          this.setCodigo(codigo);
         this.setModelo(modelo);
 
@@ -39,4 +39,6 @@ public class Producto {
     public void setModelo(String modelo) {
         Modelo = modelo;
     }
+    public String modeloMayuscula(){return  Modelo.toUpperCase();}
+    public abstract void estado();
 }

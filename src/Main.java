@@ -51,8 +51,12 @@ public class Main {
 
         Monitores lg1080 = new Monitores("lg1080", "Monitor LG1080+", 10,"HD");
         lg1080.reset();
+
+        lg1080.estado();
+
         DiscosDuros s1000 = new DiscosDuros("s1000","Samsung s1000",20,"1000GB");
         s1000.reset();
+        s1000.estado();
 
 
     }

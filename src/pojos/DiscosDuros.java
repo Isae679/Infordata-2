@@ -24,7 +24,22 @@ public class DiscosDuros extends Alquiler implements IReseteable {
     }
 
     @Override
+    public String toString() {
+        return "DiscosDuros{" +
+                "capacidad='" + capacidad + '\'' +
+                ", precio=" + precio +
+                ", Codigo='" + Codigo + '\'' +
+                ", Modelo='" + Modelo + '\'' +
+                '}';
+    }
+
+    @Override
     public void reset() {
         System.out.println("Formateando Disco Duro...");
+    }
+
+    @Override
+    public void estado() {
+        System.out.println("Sectores defectuosos: " + 1420);
     }
 }
